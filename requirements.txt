@@ -1,0 +1,4 @@
+asyncio==3.4.3
+httpx==0.25.1
+tenacity==8.2.3
+lxml==4.9.3
